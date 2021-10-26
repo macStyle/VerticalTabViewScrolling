@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct VerticalTabiViewScrollingApp: App {
+struct VerticalTabViewScrollingApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
